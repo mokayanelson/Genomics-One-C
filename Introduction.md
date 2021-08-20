@@ -1,4 +1,5 @@
 # Identification of somatic and germline variants from tumor and normal sample pairs
+>*Adapted from [Galaxy Training Network](https://training.galaxyproject.org/training-material//topics/variant-analysis/tutorials/somatic-variants/tutorial.html#reporting-selected-subsets-of-variants)*
 
 ## Introduction
 
